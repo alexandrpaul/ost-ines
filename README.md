@@ -4,7 +4,7 @@
 
 # osTicket - Prerequisites and Installation
 
-pp
+This project demonstrates hands-on experience with Windows 10 and Internet Information Services (IIS), including full installation and configuration of IIS, web platform components, and Microsoft Visual C++ Redistributables. It covers MySQL database setup and security, deployment and configuration of the osTicket web application with required PHP extensions, and file permission management to ensure operational readiness. The project reflects real enterprise IT responsibilities, including web server configuration, application deployment, and secure management of system and database resources.
 
 ## Environments and Technologies Used
 
@@ -76,3 +76,9 @@ Install osTicket and enable the following PHP extensions: **php_imap.dll**, **ph
 Proceed with the **osTicket** setup via a web browser. Once configuration is complete, click **Install Now** to finalize the installation.
 
 ![Screenshot](https://github.com/alexandrpaul/ost-pni/blob/9a9a2903f2c890fe6c027e06c4e96336ff088927/Screenshots/img7.png)
+
+
+
+<h2> Final Thoughts </h2>
+
+<p> Completing this implementation provided hands-on experience managing a Windows-based web application stack in a controlled environment. The work reinforced practical skills in IIS configuration, dependency and runtime management, database setup and security, and application deployment using industry-standard tools. Configuring PHP extensions, managing file permissions, and completing web-based installation workflows emphasized attention to detail and operational readiness. Overall, the experience strengthened foundational skills in web server administration and application support, directly aligning with real-world enterprise IT and help desk responsibilities. </p>
